@@ -16,6 +16,6 @@ https://youtu.be/VG4TuIJTS0c
 ## Screenshot
 
 <a href="https://pravalli21.github.io/Tic-Tac-Toe-Game/index.html">
- <img src="https://webdevtrick.com/wp-content/uploads/javascript-quiz-program-980x514.jpg/">
+ <img src="https://webdevtrick.com/wp-content/uploads/javascript-quiz-app.gif"/>
 </a>
 
